@@ -60,6 +60,7 @@
 
 body {
     background-color: #FFDAB9;
+    background: url(img/hero-bg.jpg) center no-repeat #000;
 }
 
 img {
@@ -116,7 +117,7 @@ img {
 
 .type-wrap {
     font-size: 25px;
-    color: #C4515C;
+    color: #ffffff;
 
 }
 
